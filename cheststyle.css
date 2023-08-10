@@ -1,0 +1,84 @@
+body{
+    background-color: #716da3;
+    background-image: url(chestimages/BACKGROUNDIMAGEMAIN.jpeg);
+    background-position: 5cm;
+    background-size: cover;
+    margin: 0;
+    background-attachment: fixed;
+    margin: 0;
+}
+.flatbench{
+    
+    
+    position: relative;
+    left: 300px;
+    top: 50px;
+    
+   
+    
+}
+
+.inclinebench{
+    height: fit-content;
+    width: fit-content;
+    position: relative;
+    left: 300px;
+    top: 300px;
+    
+}
+.dumbbellfly{
+    height: fit-content;
+    width: fit-content;
+    position: relative;
+    left: 300px;
+    top:400px
+}
+h1{
+    color: aliceblue;
+}
+
+.CONTACTDETAIL{
+   
+    position: relative;
+    top:400px;
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+    background-color:#61677A;
+    height: 130px;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    width: fit-content;
+}
+a:hover{
+    color: aquamarine;
+}
+
+.sayanfit{
+    height: 100px;
+    width: fit-content;
+   position: relative;
+   left: 400px;
+   bottom: 220px;
+   align-items: center;
+   background-color: none;
+   text-align: center;
+   font-size: x-large;
+   color: aliceblue;
+
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+video{
+    border-radius: 5px;
+    border-color: none;
+    
+}
